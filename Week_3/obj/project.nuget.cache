@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qlJ3RwcALWjoIPEurGgcym7/+guIuN/o7y4wHPmf0AF9QUWs7UI61KhPYieTaGctnTqVbdXGJzMu2hBY8xEAfQ==",
+  "dgSpecHash": "g5pM39Jyy3Xuc/2mnDJl8aZV7lmB5y+W0djc0Bgwv44tnWbZXV9tZfv8Ck4DEcGd7MxV30T/RkyEPBREL1OiLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ilank\\source\\repos\\Week_3\\Week_3\\Week_3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ilank\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
