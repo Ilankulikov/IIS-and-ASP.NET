@@ -22,7 +22,7 @@ __*content of csproj after browsing the library:*__ <br/>
 
 ## Step 3:
 __Right click on Solution -> 'Restore NuGet Packages' and right after 'Rebuild Solution'.__ <br/>
-__Now We have compiled out project and created the bin and obj folders and binary files.__ <br/>
+__Now We have compiled our project and created the bin and obj folders and binary files.__ <br/>
 ![image](https://user-images.githubusercontent.com/90269123/135640411-2d8ab759-d964-454f-8d01-4ae10b9f6393.png)
 
 ## Step 4:
@@ -32,7 +32,7 @@ __Publish your Web App : right click on Web App -> publish .__ <br/>
 __Now folder named "Release" was created in the WebApp/bin folder which contains the necessary files deploy and run our web app.__
 
 
-__* *In the next steps we will do the deployment of out web app.*__ 
+__* *In the next steps we will do the deployment of our web app.*__ 
 
 ## IIS Configuration and Web App Deployment:
 
