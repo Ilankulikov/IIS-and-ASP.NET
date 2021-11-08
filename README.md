@@ -1,4 +1,4 @@
-# Week 3 Project
+## Week 3 Project
 ###### *In this project I have created basic "ASP.NET Core Website".*
 ###### *For this exersice I used Microsoft Visual Studio and IIS.*
 
